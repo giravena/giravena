@@ -16,7 +16,7 @@
 <b>Hobbies:</b> Read and learn new things, go for a walk, listen to music and Web Development
 </li>
 <li>
-<b>Studying:</b> JavaScript, Python and UX/UI
+<b>Studying:</b> JavaScript, Python, PHP and UX/UI
 </li>
 <br>
 <p><b>    
